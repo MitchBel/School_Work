@@ -1,0 +1,2 @@
+This text was added via a text file from a branch which was locally merged 
+with the master and then pushed to the remote.
